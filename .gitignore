@@ -1,2 +1,6 @@
-.venv
-data
+data/
+figures/
+.ipynb_checkpoints/
+.venv/
+__pycache__/
+*.pyc
