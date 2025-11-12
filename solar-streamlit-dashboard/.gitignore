@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.conda/
+
+# VS Code
+.vscode/
+
+# Data stays local
+data/
+*.parquet
+
+# OS
+.DS_Store
+Thumbs.db
